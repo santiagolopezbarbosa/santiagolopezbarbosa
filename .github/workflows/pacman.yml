@@ -23,7 +23,7 @@ jobs:
     steps:
       # Genera la imagen SVG del juego
       - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@v2.2.0 # Se recomienda usar una versión específica
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           # Puedes personalizar los colores aquí si quieres. Ejemplos:
