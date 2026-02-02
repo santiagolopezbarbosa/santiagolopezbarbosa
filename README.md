@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="" width="100%" height="auto"/>
+  <img src="https://github.com/santiagolopezbarbosa/santiagolopezbarbosa/blob/main/Santiago.png?raw=true" width="100%" height="auto"/>
 </div>
 
 <h1 align="center">Hola, soy Santiago De Jesús Lopez Barbosa <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTRuNGRnaTlheWhvNDV2cWc2N3RkZWZiNjkwN2V4YWU1YTZoeTRtayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W8tizn4VT7bAqSJxkY/giphy.gif" width="35px"></h1>
